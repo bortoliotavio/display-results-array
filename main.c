@@ -5,7 +5,7 @@
 int main()
 {
     int n[TAMANHO], cont = 0, i[TAMANHO], soma = 0;
-    printf("Digite %i valores inteiros positivos:\n", TAMANHO);
+    printf("Digite %i valores inteiros positivos: (Cleusa delicia) \n", TAMANHO);
     while(cont < TAMANHO){
         printf("Vetor [%i] = ", cont);
         scanf("%i", &n[cont]);
